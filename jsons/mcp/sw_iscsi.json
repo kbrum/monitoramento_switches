@@ -1,0 +1,36 @@
+{
+  "jsonrpc": "2.0",
+  "result": [
+    {
+      "itemid": "56569",
+      "name": "Bits recebidos - porta 25 - UPLINK 1",
+      "lastvalue": ""
+    },
+    {
+      "itemid": "56592",
+      "name": "Bits recebidos - porta 26 - UPLINK 1",
+      "lastvalue": "1.57 GB/s"
+    },
+    {
+      "itemid": "56570",
+      "name": "Bits recebidos - porta 26 - UPLINK 2",
+      "lastvalue": "1.13 GB/s"
+    },
+    {
+      "itemid": "56571",
+      "name": "Bits enviados - porta 25 - UPLINK 1",
+      "lastvalue": ""
+    },
+    {
+      "itemid": "56572",
+      "name": "Bits enviados - porta 26 - UPLINK 1",
+      "lastvalue": "3.53 GB/s"
+    },
+    {
+      "itemid": "56583",
+      "name": "Bits enviados - porta 26 - UPLINK 2",
+      "lastvalue": "1.46 GB/s"
+    }
+  ],
+  "id": 1
+}

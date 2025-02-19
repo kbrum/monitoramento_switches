@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HOME</title>
+
+   <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <img src="{{ url_for('static', filename='imgs/ronaldo.jpeg') }}" alt="img not found"> <br>
+    <h1>PERDIDO AMIGO?, aqui os caminhos:</h1> <br>
+    
+    <h1>MACAPÁ</h1>
+    <h2>TERREO</h2>
+    <a href="{{ url_for('serve_sw_dist_mcp')}}?t={{ current_time }}">SW DIST - MCP</a> <br>
+    <a href="{{ url_for('serve_sw_iscsi')}}?t={{ current_time }}">SW ISCSI - MCP</a> <br>
+    <a href="{{ url_for('serve_sw_core_mcp')}}?t={{ current_time }}">SW CORE - MCP</a> <br>
+    <a href="{{ url_for('serve_sw_audi_mcp')}}?t={{ current_time }}">SW AUDITORIO - MCP</a> <br>
+    <a href="{{ url_for('serve_sw_multi_mcp')}}?t={{ current_time }}">SW MULTIUSO - MCP</a> <br>
+    <a href="{{ url_for('serve_sw_nucad_mcp')}}?t={{ current_time }}">SW NUCAD - MCP</a> <br>
+    <a href="{{ url_for('serve_sw_ac_cpd_mcp')}}?t={{ current_time }}">SW ACESSO CPD - MCP</a> <br>
+    <a href="{{ url_for('serve_sw_ac_secos_mcp')}}?t={{ current_time }}">SW ACESSO - LADO SECOS - MCP</a> <br>
+    <a href="{{ url_for('serve_sw_ac_sepol_mcp')}}?t={{ current_time }}">SW ACESSO - LADO CPD/SEPOL - MCP</a> <br>
+    <a href="{{ url_for('serve_sw_semam_mcp')}}?t={{ current_time }}">SW ACESSO SEMAM - MCP</a> <br>
+
+    <h2>1 ANDAR</h2>
+    <a href="{{ url_for('serve_sw_ac_nutec_mcp')}}?t={{ current_time }}">SW ACESSO - LADO NUTEC - MCP</a> <br>
+    <a href="{{ url_for('serve_sw_ac_ol_r1_mcp')}}?t={{ current_time }}">SW ACESSO - OUTRO LADO - RACK 1 - MCP</a> <br>
+    <a href="{{ url_for('serve_sw_ac_ol_r2_mcp')}}?t={{ current_time }}">SW ACESSO - OUTRO LADO - RACK 2 - MCP</a> <br>
+
+    <h2>2 ANDAR</h2>
+    <a href="{{ url_for('serve_sw_ac_refeitorio_mcp')}}?t={{ current_time }}">SW ACESSO - LADO REFEITORIO - MCP</a> <br>
+    <a href="{{ url_for('serve_sw_ac_secad_r1_mcp')}}?t={{ current_time }}">SW ACESSO - LADO SECAD - RACK 1 - MCP</a> <br>
+    <a href="{{ url_for('serve_sw_ac_secad_r2_mcp')}}?t={{ current_time }}">SW ACESSO - LADO SECAD - RACK 2 - MCP</a> <br>
+    <br>
+    <br>
+
+    <h1>LARANJAL</h1>
+    <a href="{{ url_for('serve_sw_core_lji')}}?t={{ current_time }}">SW CORE - LJI</a> <br>
+    <a href="{{ url_for('serve_sw_ac1_lji')}}?t={{ current_time }}">SW ACESSO 1 - LJI</a> <br>
+    <a href="{{ url_for('serve_sw_ac2_lji')}}?t={{ current_time }}">SW ACESSO 2 - LJI</a> <br>
+    <a href="{{ url_for('serve_sw_ac3_lji')}}?t={{ current_time }}">SW ACESSO 3 - LJI</a> <br>
+    <br>
+    <br>
+
+    <h1>OIAPOQUE</h1>
+    <a href="{{ url_for('serve_sw_core_opq')}}?t={{ current_time }}">SW CORE - OPQ</a> <br>
+    <a href="{{ url_for('serve_sw_ac1_opq')}}?t={{ current_time }}">SW ACESSO 1 - OPQ</a> <br>
+    <a href="{{ url_for('serve_sw_ac2_opq')}}?t={{ current_time }}">SW ACESSO 2 - OPQ</a> <br>
+    <a href="{{ url_for('serve_sw_ac3_opq')}}?t={{ current_time }}">SW ACESSO 3 - OPQ</a> <br>
+
+</body>
+</html>

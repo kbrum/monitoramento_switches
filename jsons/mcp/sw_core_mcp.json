@@ -1,0 +1,26 @@
+{
+  "jsonrpc": "2.0",
+  "result": [
+    {
+      "itemid": "56383",
+      "name": "Bits recebidos - porta 48 - UPLINK 1",
+      "lastvalue": "1.42 GB/s"
+    },
+    {
+      "itemid": "56384",
+      "name": "Bits recebidos - porta 48 - UPLINK 2",
+      "lastvalue": "1.37 GB/s"
+    },
+    {
+      "itemid": "56385",
+      "name": "Bits enviados - porta 48 - UPLINK 1",
+      "lastvalue": "3.32 GB/s"
+    },
+    {
+      "itemid": "56386",
+      "name": "Bits enviados - porta 48 - UPLINK 2",
+      "lastvalue": "1.41 GB/s"
+    }
+  ],
+  "id": 1
+}

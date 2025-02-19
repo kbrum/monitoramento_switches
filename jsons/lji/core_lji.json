@@ -1,0 +1,26 @@
+{
+  "jsonrpc": "2.0",
+  "result": [
+    {
+      "itemid": "56043",
+      "name": "Bits recebido - UP LINK - CORE 1",
+      "lastvalue": "2.79 GB/s"
+    },
+    {
+      "itemid": "56042",
+      "name": "Bits recebido - UP LINK - CORE 2",
+      "lastvalue": "0.00 KB/s"
+    },
+    {
+      "itemid": "56040",
+      "name": "Bits enviados - UP LINK - CORE 1",
+      "lastvalue": "15.30 MB/s"
+    },
+    {
+      "itemid": "56041",
+      "name": "Bits enviados - UP LINK - CORE 2",
+      "lastvalue": "0.00 KB/s"
+    }
+  ],
+  "id": 1
+}
