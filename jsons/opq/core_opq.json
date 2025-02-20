@@ -4,7 +4,7 @@
     {
       "itemid": "56046",
       "name": "Bits recebidos - UPLINK 1",
-      "lastvalue": "3.96 GB/s"
+      "lastvalue": "1.09 GB/s"
     },
     {
       "itemid": "56047",
@@ -14,12 +14,12 @@
     {
       "itemid": "56044",
       "name": "Bits enviados - UPLINK 1",
-      "lastvalue": "3.54 GB/s"
+      "lastvalue": "1.42 GB/s"
     },
     {
       "itemid": "56045",
       "name": "Bits enviados - UPLINK 2",
-      "lastvalue": "120.69 KB/s"
+      "lastvalue": "4.65 MB/s"
     }
   ],
   "id": 1

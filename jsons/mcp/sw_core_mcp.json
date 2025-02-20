@@ -4,22 +4,22 @@
     {
       "itemid": "56383",
       "name": "Bits recebidos - porta 48 - UPLINK 1",
-      "lastvalue": "1.42 GB/s"
+      "lastvalue": "14.87 MB/s"
     },
     {
       "itemid": "56384",
       "name": "Bits recebidos - porta 48 - UPLINK 2",
-      "lastvalue": "1.37 GB/s"
+      "lastvalue": "3.91 GB/s"
     },
     {
       "itemid": "56385",
       "name": "Bits enviados - porta 48 - UPLINK 1",
-      "lastvalue": "3.32 GB/s"
+      "lastvalue": "2.57 GB/s"
     },
     {
       "itemid": "56386",
       "name": "Bits enviados - porta 48 - UPLINK 2",
-      "lastvalue": "1.41 GB/s"
+      "lastvalue": "1.51 GB/s"
     }
   ],
   "id": 1

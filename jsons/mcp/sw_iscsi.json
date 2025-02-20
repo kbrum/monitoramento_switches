@@ -9,12 +9,12 @@
     {
       "itemid": "56592",
       "name": "Bits recebidos - porta 26 - UPLINK 1",
-      "lastvalue": "1.57 GB/s"
+      "lastvalue": "1.59 GB/s"
     },
     {
       "itemid": "56570",
       "name": "Bits recebidos - porta 26 - UPLINK 2",
-      "lastvalue": "1.13 GB/s"
+      "lastvalue": "1.15 GB/s"
     },
     {
       "itemid": "56571",
@@ -24,12 +24,12 @@
     {
       "itemid": "56572",
       "name": "Bits enviados - porta 26 - UPLINK 1",
-      "lastvalue": "3.53 GB/s"
+      "lastvalue": "3.57 GB/s"
     },
     {
       "itemid": "56583",
       "name": "Bits enviados - porta 26 - UPLINK 2",
-      "lastvalue": "1.46 GB/s"
+      "lastvalue": "1.47 GB/s"
     }
   ],
   "id": 1
