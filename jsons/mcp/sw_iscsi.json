@@ -24,12 +24,12 @@
     {
       "itemid": "56572",
       "name": "Bits enviados - porta 26 - UPLINK 1",
-      "lastvalue": "3.57 GB/s"
+      "lastvalue": "3.58 GB/s"
     },
     {
       "itemid": "56583",
       "name": "Bits enviados - porta 26 - UPLINK 2",
-      "lastvalue": "1.47 GB/s"
+      "lastvalue": "1.48 GB/s"
     }
   ],
   "id": 1

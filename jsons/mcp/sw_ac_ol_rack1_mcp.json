@@ -9,432 +9,432 @@
     {
       "itemid": "56784",
       "name": "Bits recebidos - porta 26 - UPLINK 1",
-      "lastvalue": "1.24 GB/s"
+      "lastvalue": "898.66 MB/s"
     },
     {
       "itemid": "56785",
       "name": "Bits recebidos - porta 26 - UPLINK 2",
-      "lastvalue": "3.28 GB/s"
+      "lastvalue": "906.64 MB/s"
     },
     {
       "itemid": "56800",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 1/1/10",
-      "lastvalue": "179401:33:20"
+      "lastvalue": "1794:00:56"
     },
     {
       "itemid": "56801",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 1/1/11",
-      "lastvalue": "03:26:40"
+      "lastvalue": "00:02:04"
     },
     {
       "itemid": "56802",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 1/1/12",
-      "lastvalue": "03:26:40"
+      "lastvalue": "00:02:04"
     },
     {
       "itemid": "56803",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 1/1/13",
-      "lastvalue": "146:05:00"
+      "lastvalue": "01:27:39"
     },
     {
       "itemid": "56804",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 1/1/14",
-      "lastvalue": "03:26:40"
+      "lastvalue": "00:02:04"
     },
     {
       "itemid": "56805",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 1/1/15",
-      "lastvalue": "6471:13:20"
+      "lastvalue": "64:42:44"
     },
     {
       "itemid": "56806",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 1/1/16",
-      "lastvalue": "03:26:40"
+      "lastvalue": "00:02:04"
     },
     {
       "itemid": "56807",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 1/1/17",
-      "lastvalue": "265914:05:00"
+      "lastvalue": "2659:43:35"
     },
     {
       "itemid": "56808",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 1/1/18",
-      "lastvalue": "03:26:40"
+      "lastvalue": "00:02:04"
     },
     {
       "itemid": "56809",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 1/1/19",
-      "lastvalue": "164858:26:40"
+      "lastvalue": "1648:35:04"
     },
     {
       "itemid": "56791",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 1/1/1",
-      "lastvalue": "263903:55:00"
+      "lastvalue": "2660:11:48"
     },
     {
       "itemid": "56810",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 1/1/20",
-      "lastvalue": "262715:20:00"
+      "lastvalue": "2627:09:12"
     },
     {
       "itemid": "56811",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 1/1/21",
-      "lastvalue": "247076:08:20"
+      "lastvalue": "2470:45:41"
     },
     {
       "itemid": "56812",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 1/1/22",
-      "lastvalue": "265882:26:40"
+      "lastvalue": "2658:49:28"
     },
     {
       "itemid": "56813",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 1/1/23",
-      "lastvalue": "03:26:40"
+      "lastvalue": "00:02:04"
     },
     {
       "itemid": "56814",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 1/1/24",
-      "lastvalue": "03:26:40"
+      "lastvalue": "00:02:04"
     },
     {
       "itemid": "56815",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 1/1/25",
-      "lastvalue": "03:26:40"
+      "lastvalue": "00:02:04"
     },
     {
       "itemid": "56816",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 1/1/26",
-      "lastvalue": "85816:56:40"
+      "lastvalue": "858:10:10"
     },
     {
       "itemid": "56817",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 1/1/27",
-      "lastvalue": "132:16:40"
+      "lastvalue": "01:19:22"
     },
     {
       "itemid": "56818",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 1/1/28",
-      "lastvalue": "143:30:00"
+      "lastvalue": "01:26:06"
     },
     {
       "itemid": "56792",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 1/1/2",
-      "lastvalue": "261171:41:40"
+      "lastvalue": "2611:43:01"
     },
     {
       "itemid": "56793",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 1/1/3",
-      "lastvalue": "03:26:40"
+      "lastvalue": "00:02:04"
     },
     {
       "itemid": "56794",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 1/1/4",
-      "lastvalue": "119:36:40"
+      "lastvalue": "01:11:46"
     },
     {
       "itemid": "56795",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 1/1/5",
-      "lastvalue": "59:21:40"
+      "lastvalue": "00:35:37"
     },
     {
       "itemid": "56796",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 1/1/6",
-      "lastvalue": "265586:26:40"
+      "lastvalue": "2660:08:33"
     },
     {
       "itemid": "56797",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 1/1/7",
-      "lastvalue": "112334:15:00"
+      "lastvalue": "1123:20:33"
     },
     {
       "itemid": "56798",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 1/1/8",
-      "lastvalue": "119:03:20"
+      "lastvalue": "01:11:26"
     },
     {
       "itemid": "56799",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 1/1/9",
-      "lastvalue": "03:26:40"
+      "lastvalue": "00:02:04"
     },
     {
       "itemid": "56828",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 2/1/10",
-      "lastvalue": "262710:51:40"
+      "lastvalue": "2627:06:31"
     },
     {
       "itemid": "56829",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 2/1/11",
-      "lastvalue": "261326:45:00"
+      "lastvalue": "2613:16:03"
     },
     {
       "itemid": "56830",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 2/1/12",
-      "lastvalue": "263248:13:20"
+      "lastvalue": "2632:28:56"
     },
     {
       "itemid": "56831",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 2/1/13",
-      "lastvalue": "18:26:40"
+      "lastvalue": "00:11:04"
     },
     {
       "itemid": "56832",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 2/1/14",
-      "lastvalue": "18:26:40"
+      "lastvalue": "00:11:04"
     },
     {
       "itemid": "56833",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 2/1/15",
-      "lastvalue": "18:26:40"
+      "lastvalue": "00:11:04"
     },
     {
       "itemid": "56834",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 2/1/16",
-      "lastvalue": "18:26:40"
+      "lastvalue": "00:11:04"
     },
     {
       "itemid": "56835",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 2/1/17",
-      "lastvalue": "18:26:40"
+      "lastvalue": "00:11:04"
     },
     {
       "itemid": "56836",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 2/1/18",
-      "lastvalue": "265608:40:00"
+      "lastvalue": "2660:10:01"
     },
     {
       "itemid": "56837",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 2/1/19",
-      "lastvalue": "18:26:40"
+      "lastvalue": "00:11:04"
     },
     {
       "itemid": "56819",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 2/1/1",
-      "lastvalue": "122:25:00"
+      "lastvalue": "01:13:27"
     },
     {
       "itemid": "56838",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 2/1/20",
-      "lastvalue": "18:26:40"
+      "lastvalue": "00:11:04"
     },
     {
       "itemid": "56839",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 2/1/21",
-      "lastvalue": "18:26:40"
+      "lastvalue": "00:11:04"
     },
     {
       "itemid": "56840",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 2/1/22",
-      "lastvalue": "18:26:40"
+      "lastvalue": "00:11:04"
     },
     {
       "itemid": "56841",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 2/1/23",
-      "lastvalue": "18:26:40"
+      "lastvalue": "00:11:04"
     },
     {
       "itemid": "56842",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 2/1/24",
-      "lastvalue": "18:26:40"
+      "lastvalue": "00:11:04"
     },
     {
       "itemid": "56843",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 2/1/25",
-      "lastvalue": "18:26:40"
+      "lastvalue": "00:11:04"
     },
     {
       "itemid": "56844",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 2/1/26",
-      "lastvalue": "85909:56:40"
+      "lastvalue": "859:05:58"
     },
     {
       "itemid": "56845",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 2/1/27",
-      "lastvalue": "132:16:40"
+      "lastvalue": "01:19:22"
     },
     {
       "itemid": "56846",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 2/1/28",
-      "lastvalue": "143:31:40"
+      "lastvalue": "01:26:07"
     },
     {
       "itemid": "56820",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 2/1/2",
-      "lastvalue": "32:03:20"
+      "lastvalue": "00:19:14"
     },
     {
       "itemid": "56821",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 2/1/3",
-      "lastvalue": "18:26:40"
+      "lastvalue": "00:11:04"
     },
     {
       "itemid": "56822",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 2/1/4",
-      "lastvalue": "249634:38:20"
+      "lastvalue": "2496:20:47"
     },
     {
       "itemid": "56823",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 2/1/5",
-      "lastvalue": "265655:10:00"
+      "lastvalue": "2656:33:06"
     },
     {
       "itemid": "56824",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 2/1/6",
-      "lastvalue": "225356:10:00"
+      "lastvalue": "2253:33:42"
     },
     {
       "itemid": "56825",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 2/1/7",
-      "lastvalue": "258960:01:40"
+      "lastvalue": "2589:36:01"
     },
     {
       "itemid": "56826",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 2/1/8",
-      "lastvalue": "18:26:40"
+      "lastvalue": "00:11:04"
     },
     {
       "itemid": "56827",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 2/1/9",
-      "lastvalue": "6906:33:20"
+      "lastvalue": "69:03:56"
     },
     {
       "itemid": "56856",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 3/1/10",
-      "lastvalue": "145:33:20"
+      "lastvalue": "01:27:20"
     },
     {
       "itemid": "56857",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 3/1/11",
-      "lastvalue": "6900:55:00"
+      "lastvalue": "69:00:33"
     },
     {
       "itemid": "56858",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 3/1/12",
-      "lastvalue": "145:28:20"
+      "lastvalue": "01:27:17"
     },
     {
       "itemid": "56859",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 3/1/13",
-      "lastvalue": "145:28:20"
+      "lastvalue": "01:27:17"
     },
     {
       "itemid": "56860",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 3/1/14",
-      "lastvalue": "145:28:20"
+      "lastvalue": "01:27:17"
     },
     {
       "itemid": "56861",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 3/1/15",
-      "lastvalue": "265605:50:00"
+      "lastvalue": "2660:06:48"
     },
     {
       "itemid": "56862",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 3/1/16",
-      "lastvalue": "145:28:20"
+      "lastvalue": "01:27:17"
     },
     {
       "itemid": "56863",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 3/1/17",
-      "lastvalue": "187:26:40"
+      "lastvalue": "01:52:28"
     },
     {
       "itemid": "56864",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 3/1/18",
-      "lastvalue": "265748:40:00"
+      "lastvalue": "2657:29:12"
     },
     {
       "itemid": "56865",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 3/1/19",
-      "lastvalue": "100548:55:00"
+      "lastvalue": "1005:29:21"
     },
     {
       "itemid": "56847",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 3/1/1",
-      "lastvalue": "145:28:20"
+      "lastvalue": "01:27:17"
     },
     {
       "itemid": "56866",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 3/1/20",
-      "lastvalue": "258591:56:40"
+      "lastvalue": "2585:55:10"
     },
     {
       "itemid": "56867",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 3/1/21",
-      "lastvalue": "182:38:20"
+      "lastvalue": "01:49:35"
     },
     {
       "itemid": "56868",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 3/1/22",
-      "lastvalue": "261526:56:40"
+      "lastvalue": "2615:16:10"
     },
     {
       "itemid": "56869",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 3/1/23",
-      "lastvalue": "264011:51:40"
+      "lastvalue": "2640:07:07"
     },
     {
       "itemid": "56870",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 3/1/24",
-      "lastvalue": "201385:38:20"
+      "lastvalue": "2013:51:23"
     },
     {
       "itemid": "56871",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 3/1/25",
-      "lastvalue": "145:28:20"
+      "lastvalue": "01:27:17"
     },
     {
       "itemid": "56872",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 3/1/26",
-      "lastvalue": "2945:20:00"
+      "lastvalue": "29:27:12"
     },
     {
       "itemid": "56873",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 3/1/27",
-      "lastvalue": "145:28:20"
+      "lastvalue": "01:27:17"
     },
     {
       "itemid": "56874",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 3/1/28",
-      "lastvalue": "145:28:20"
+      "lastvalue": "01:27:17"
     },
     {
       "itemid": "56848",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 3/1/2",
-      "lastvalue": "265670:26:40"
+      "lastvalue": "2656:42:16"
     },
     {
       "itemid": "56849",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 3/1/3",
-      "lastvalue": "213408:13:20"
+      "lastvalue": "2134:04:56"
     },
     {
       "itemid": "56850",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 3/1/4",
-      "lastvalue": "265685:31:40"
+      "lastvalue": "2656:51:19"
     },
     {
       "itemid": "56851",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 3/1/5",
-      "lastvalue": "265603:55:00"
+      "lastvalue": "2660:03:20"
     },
     {
       "itemid": "56852",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 3/1/6",
-      "lastvalue": "265704:56:40"
+      "lastvalue": "2657:02:58"
     },
     {
       "itemid": "56853",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 3/1/7",
-      "lastvalue": "265616:55:00"
+      "lastvalue": "2660:07:27"
     },
     {
       "itemid": "56854",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 3/1/8",
-      "lastvalue": "263995:21:40"
+      "lastvalue": "2639:57:13"
     },
     {
       "itemid": "56855",
       "name": "Ultima mudan\u00e7a - Alcatel-Lucent OS6360 GNI 3/1/9",
-      "lastvalue": "265659:05:00"
+      "lastvalue": "2656:35:27"
     },
     {
       "itemid": "56877",
@@ -444,12 +444,12 @@
     {
       "itemid": "56876",
       "name": "Ultima mudan\u00e7a - Loopback",
-      "lastvalue": "02:25:00"
+      "lastvalue": "00:01:27"
     },
     {
       "itemid": "56875",
       "name": "Ultima mudan\u00e7a - vlan-1100",
-      "lastvalue": "2409:25:30"
+      "lastvalue": "24:05:39"
     },
     {
       "itemid": "56786",
@@ -459,12 +459,12 @@
     {
       "itemid": "56787",
       "name": "Bits enviados - porta 26 - UPLINK 1",
-      "lastvalue": "2.58 GB/s"
+      "lastvalue": "3.07 GB/s"
     },
     {
       "itemid": "56788",
       "name": "Bits enviados - porta 26 - UPLINK 2",
-      "lastvalue": "1.50 GB/s"
+      "lastvalue": "1.75 GB/s"
     }
   ],
   "id": 1

@@ -4,82 +4,82 @@
     {
       "itemid": "56048",
       "name": "Bits recebidos - porta 27 - UP LINK 1",
-      "lastvalue": "39.90 MB/s"
+      "lastvalue": "368.90 MB/s"
     },
     {
       "itemid": "56060",
       "name": "Bits recebidos - porta 28 - UP LINK 1",
-      "lastvalue": "39.90 MB/s"
+      "lastvalue": "368.90 MB/s"
     },
     {
       "itemid": "56049",
       "name": "Bits recebidos - porta 27 - UP LINK 2",
-      "lastvalue": "1.87 GB/s"
+      "lastvalue": "2.66 GB/s"
     },
     {
       "itemid": "56061",
       "name": "Bits recebidos - porta 28 - UP LINK 2",
-      "lastvalue": "1.87 GB/s"
+      "lastvalue": "2.66 GB/s"
     },
     {
       "itemid": "56050",
       "name": "Bits recebidos - porta 27 - UP LINK 3",
-      "lastvalue": "1.42 GB/s"
+      "lastvalue": "3.10 GB/s"
     },
     {
       "itemid": "56063",
       "name": "Bits recebidos - porta 28 - UP LINK 3",
-      "lastvalue": "1.42 GB/s"
+      "lastvalue": "3.10 GB/s"
     },
     {
       "itemid": "56051",
       "name": "Bits recebidos - porta 27 - UP LINK 4",
-      "lastvalue": "2.39 GB/s"
+      "lastvalue": "3.40 GB/s"
     },
     {
       "itemid": "56062",
       "name": "Bits recebidos - porta 28 - UP LINK 4",
-      "lastvalue": "2.39 GB/s"
+      "lastvalue": "3.40 GB/s"
     },
     {
       "itemid": "56052",
       "name": "Bits enviados - porta 27 - UPLINK 1",
-      "lastvalue": "3.91 GB/s"
+      "lastvalue": "1.53 GB/s"
     },
     {
       "itemid": "56056",
       "name": "Bits enviados - porta 28 - UPLINK 1",
-      "lastvalue": "3.80 GB/s"
+      "lastvalue": "678.33 MB/s"
     },
     {
       "itemid": "56053",
       "name": "Bits enviados - porta 27 - UPLINK 2",
-      "lastvalue": "2.09 GB/s"
+      "lastvalue": "3.66 GB/s"
     },
     {
       "itemid": "56057",
       "name": "Bits enviados - porta 28 - UPLINK 2",
-      "lastvalue": "878.88 MB/s"
+      "lastvalue": "2.00 GB/s"
     },
     {
       "itemid": "56054",
       "name": "Bits enviados - porta 27 - UPLINK 3",
-      "lastvalue": "869.40 MB/s"
+      "lastvalue": "869.96 MB/s"
     },
     {
       "itemid": "56058",
       "name": "Bits enviados - porta 28 - UPLINK 3",
-      "lastvalue": "870.04 MB/s"
+      "lastvalue": "870.60 MB/s"
     },
     {
       "itemid": "56055",
       "name": "Bits enviados - porta 27 - UPLINK 4",
-      "lastvalue": "869.39 MB/s"
+      "lastvalue": "869.95 MB/s"
     },
     {
       "itemid": "56059",
       "name": "Bits enviados - porta 28 - UPLINK 4",
-      "lastvalue": "870.70 MB/s"
+      "lastvalue": "871.26 MB/s"
     }
   ],
   "id": 1
